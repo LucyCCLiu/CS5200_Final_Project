@@ -5,15 +5,15 @@
 - Changchang Liu 
 - Jiatian Wang
 # Project Description
-This project create
+This project creates
 # User Data Model: Customer users, customer service staff users and company Users
 
 # Domain Object Data Model: Game Product, Review and Order
 
 # User to Domain Object Relationship
-
+Customer users have an one-to-many relationship
 # User to User Relationship
-Customer user class has a many-to-many relationship with customer-service staff user class. 
+Customer users have a many-to-many relationship with customer-service staff users. 
 # Domain object to Domain Object Relationship
 
 # Portable Enums
