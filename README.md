@@ -1,9 +1,21 @@
 # Name of the project
--Game Retailer
 # Name of the team 
 -Team Spririt
-# Team members 
+# team members 
 - Changchang Liu 
-- Jiatian Wang wang.jiati@northeastern.edu
-# Brief description of the project
-Game industries are booming in this era. And people are more willing to pay for their favorite games and related game product. With the next generation game console PS5, Xbox released, we think it's a good idea to build a game.
+- Jiatian Wang
+# Project Description
+
+# User Data Model: Customer and Company Users
+
+# Domain Object Data Model: Game Product, Review and Order
+
+# User to Domain Object Relationship
+
+# User to User Relationship
+
+# Domain object to Domain Object Relationship
+
+# Portable Enums
+
+# User Interface Requirements
